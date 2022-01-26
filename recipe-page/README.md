@@ -1,4 +1,4 @@
-<h1 align="center">DevChallenges - Interior Consultant</h1>
+<h1 align="center">DevChallenges - Recipe page</h1>
 
 <div align="center">
    Solution for a challenge from <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -6,11 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://epic-bardeen-ad2266.netlify.app//">
+    <a href="https://devchallenges-recipe-page.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
+    <a href="https://github.com/FARCER/devchallenges-Recipe-page">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
   </h3>
@@ -40,7 +44,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 ### Built With
 
-HTML, CSS, JavaScript
+HTML, CSS
 
 ## Features
 
