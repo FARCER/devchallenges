@@ -1,4 +1,4 @@
-<h1 align="center">DevChallenges - 404</h1>
+<h1 align="center">DevChallenges - Teams</h1>
 
 <div align="center">
    Solution for a challenge from <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -6,11 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://dreamy-wiles-ef2653.netlify.app/">
+    <a href="https://devchallenges-404.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://github.com/FARCER/devchallenges-404">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
       Challenge
     </a>
   </h3>
@@ -24,6 +28,7 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
+
 <!-- OVERVIEW -->
 
 ## Overview
@@ -51,6 +56,7 @@ The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to
 - [x] User story: This is a completed user stories
 - [ ] User story: This is a incompleted user stories
 - [ ] User story: This is a incompleted 2nd user stories
+
 
 ## Contact
 
