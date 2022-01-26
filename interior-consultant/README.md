@@ -1,4 +1,4 @@
-<h1 align="center">DevChallenges - Teams</h1>
+<h1 align="center">DevChallenges - Interior Consultant</h1>
 
 <div align="center">
    Solution for a challenge from <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -6,11 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://pensive-nobel-2c3973.netlify.app//">
+    <a href="https://devchallenges-interior-consultant.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
+    <a href="https://github.com/FARCER/devchallenges-Interior-Consultant">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
       Challenge
     </a>
   </h3>
@@ -40,7 +44,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 ### Built With
 
-HTML and CSS
+HTML, CSS, JavaScript
 
 ## Features
 
@@ -52,7 +56,6 @@ The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to
 - [x] User story: This is a completed user stories
 - [ ] User story: This is a incompleted user stories
 - [ ] User story: This is a incompleted 2nd user stories
-
 
 ## Contact
 
