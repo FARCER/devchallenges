@@ -6,12 +6,8 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchallenges-checkout-page.vercel.app/">
+    <a href="https://vibrant-jones-b54907.netlify.app/">
       Demo
-    </a>
-    <span> | </span>
-    <a href="https://github.com/FARCER/devchallenges-Checkout-Page">
-      Solution
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/0J1NxxGhOUYVqihwegfO">
